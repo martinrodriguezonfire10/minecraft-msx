@@ -1,0 +1,17 @@
+{
+	id: "34d4e8cb-4cf3-301a-8929-cfe647d552ec"
+	type: "player"
+	player_name: "Chakalakalaka"
+	ranks: {
+		34d4e8cb-4cf3-301a-8929-cfe647d552ec: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Chakalakalaka"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFFC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

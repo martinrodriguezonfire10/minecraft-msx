@@ -1,0 +1,17 @@
+{
+	id: "aa95126c-59c3-3651-bc71-b0d9fc63f8bc"
+	type: "player"
+	player_name: "issia_kzh"
+	ranks: {
+		aa95126c-59c3-3651-bc71-b0d9fc63f8bc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "issia_kzh"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D9FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

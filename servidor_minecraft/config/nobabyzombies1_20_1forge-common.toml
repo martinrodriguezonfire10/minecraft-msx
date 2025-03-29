@@ -1,0 +1,7 @@
+#Spawn baby zombie villagers
+spawnBabyZombieVillagers = true
+#Spawn baby husks
+spawnBabyHusks = true
+#Spawn baby zombie pigmen
+spawnBabyPigmen = true
+

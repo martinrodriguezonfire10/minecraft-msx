@@ -1,0 +1,17 @@
+{
+	id: "6ac34068-7a58-38de-81b7-12a2ed732a7d"
+	type: "player"
+	player_name: "JehuGamer"
+	ranks: {
+		6ac34068-7a58-38de-81b7-12a2ed732a7d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JehuGamer"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
