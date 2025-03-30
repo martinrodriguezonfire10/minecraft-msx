@@ -7052,6 +7052,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-03-30 21:48:34 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
       "has_potato_crate": "2025-03-30 21:33:08 +0000"

@@ -1568,3 +1568,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 21:31:38.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Cleared 1 Item!]
 [30Mar2025 21:31:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Placed 1 Item!]
 [30Mar2025 21:39:55.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Set the weather to clear]
+[30Mar2025 21:53:02.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityTerrapin['Tugi'/4250, l='ServerLevel[world]', x=1547.38, y=62.55, z=-61.63] died: Tugi drowned
