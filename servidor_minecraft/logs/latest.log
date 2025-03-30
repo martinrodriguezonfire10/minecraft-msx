@@ -1551,3 +1551,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 21:10:24.388] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [30Mar2025 21:10:24.395] [Server thread/WARN] [ModernFix/]: Dedicated server took 63.752 seconds to load
 [30Mar2025 21:11:02.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty did not change; it is already set to peaceful
+[30Mar2025 21:22:12.299] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[30Mar2025 21:22:12.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: issia_kzh[/127.174.14.33:60301] logged in with entity id 55 at (1527.8795634440112, 68.0, 3.699999988079071)
+[30Mar2025 21:22:12.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: issia_kzh joined the game
+[30Mar2025 21:22:12.865] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to issia_kzh
+[30Mar2025 21:22:35.853] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from issia_kzh
+[30Mar2025 21:22:36.707] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of issia_kzh (18)
+[30Mar2025 21:22:36.709] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to issia_kzh
+[30Mar2025 21:23:01.197] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aa95126c-59c3-3651-bc71-b0d9fc63f8bc
+[30Mar2025 21:23:08.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aa95126c-59c3-3651-bc71-b0d9fc63f8bc
+[30Mar2025 21:23:08.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player issia_kzh (aa95126c-59c3-3651-bc71-b0d9fc63f8bc) successfully connected to voice chat
+[30Mar2025 21:25:23.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Set own game mode to Creative Mode]
+[30Mar2025 21:26:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Set own game mode to Survival Mode]
+[30Mar2025 21:26:50.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Set own game mode to Creative Mode]
+[30Mar2025 21:27:16.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: issia_kzh has made the advancement [Glow and Behold!]
