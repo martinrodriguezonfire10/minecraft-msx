@@ -17177,3 +17177,89 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 22:10:25.366] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
 [30Mar2025 22:10:27.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Mar2025 22:10:27.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 22:10:57.891] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$cf4e388a835343c2aec50a8eca20fb63 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[30Mar2025 22:10:58.111] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743372658110
+[30Mar2025 22:11:03.571] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[30Mar2025 22:11:03.571] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[30Mar2025 22:13:36.010] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[30Mar2025 22:13:36.018] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[30Mar2025 22:14:14.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Set own game mode to Survival Mode]
+[30Mar2025 22:14:30.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: issia_kzh lost connection: Disconnected
+[30Mar2025 22:14:30.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: issia_kzh left the game
+[30Mar2025 22:14:30.316] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of issia_kzh
+[30Mar2025 22:14:30.316] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client issia_kzh
+[30Mar2025 22:14:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Mar2025 22:14:37.499] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[30Mar2025 22:14:37.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Mar2025 22:14:37.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Mar2025 22:14:37.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Mar2025 22:14:37.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Mar2025 22:14:37.687] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[30Mar2025 22:14:37.687] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[30Mar2025 22:14:37.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[30Mar2025 22:14:37.830] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[30Mar2025 22:14:37.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Mar2025 22:14:37.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Mar2025 22:14:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[30Mar2025 22:14:37.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 22:14:37.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 22:14:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Mar2025 22:14:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[30Mar2025 22:14:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2025 22:14:37.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Mar2025 22:14:37.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[30Mar2025 22:14:37.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Mar2025 22:14:37.909] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[30Mar2025 22:14:37.909] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$75935b$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[30Mar2025 22:14:37.910] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$75935b$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[30Mar2025 22:14:37.924] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[30Mar2025 22:14:37.924] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[30Mar2025 22:14:37.939] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_deep_void:deep_void
+[30Mar2025 22:14:37.939] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_deep_void:deep_void
+[30Mar2025 22:14:37.939] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[30Mar2025 22:14:37.940] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[30Mar2025 22:14:37.940] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[30Mar2025 22:14:37.940] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[30Mar2025 22:14:37.953] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[30Mar2025 22:14:37.953] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[30Mar2025 22:14:37.954] [Worker-Main-16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-16 shutdown
+[30Mar2025 22:14:37.954] [Worker-Main-17/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-17 shutdown
+[30Mar2025 22:14:37.954] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-15 shutdown
+[30Mar2025 22:14:37.954] [Worker-Main-25/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-25 shutdown
+[30Mar2025 22:14:37.956] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[30Mar2025 22:14:37.958] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30Mar2025 22:14:37.959] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/minecraft-msx/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2372!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2372!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23512!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23507!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23507!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[30Mar2025 22:14:37.960] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[30Mar2025 22:14:37.961] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[30Mar2025 22:14:37.968] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

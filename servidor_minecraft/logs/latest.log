@@ -1575,3 +1575,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 22:10:16.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
 [30Mar2025 22:10:17.849] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12710, l='ServerLevel[world]', x=106.00, y=31.00, z=-66.00] as it would cause deadlock
 [30Mar2025 22:10:25.064] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12880, l='ServerLevel[world]', x=19.00, y=31.00, z=165.00] as it would cause deadlock
+[30Mar2025 22:14:14.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Set own game mode to Survival Mode]
+[30Mar2025 22:14:30.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: issia_kzh lost connection: Disconnected
+[30Mar2025 22:14:30.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: issia_kzh left the game
+[30Mar2025 22:14:30.316] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client issia_kzh
+[30Mar2025 22:14:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Mar2025 22:14:37.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Mar2025 22:14:37.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Mar2025 22:14:37.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Mar2025 22:14:37.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Mar2025 22:14:37.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[30Mar2025 22:14:37.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Mar2025 22:14:37.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Mar2025 22:14:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[30Mar2025 22:14:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Mar2025 22:14:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[30Mar2025 22:14:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2025 22:14:37.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Mar2025 22:14:37.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[30Mar2025 22:14:37.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Mar2025 22:14:37.958] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30Mar2025 22:14:37.960] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[30Mar2025 22:14:37.961] [Server thread/INFO] [Framework/]: Finished unloading server configs
