@@ -7052,11 +7052,23 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddleboard": {
+    "criteria": {
+      "straddleboard": "2025-03-30 22:10:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-03-30 21:48:34 +0000"
     },
     "done": false
+  },
+  "man:thetear": {
+    "criteria": {
+      "thetear_0": "2025-03-30 22:02:13 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
