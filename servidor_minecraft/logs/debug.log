@@ -18463,3 +18463,740 @@ java.lang.NullPointerException: null
 [31Mar2025 21:33:58.411] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1743456838380
 [31Mar2025 21:34:29.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Mar2025 21:34:29.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 21:35:14.724] [Server thread/DEBUG] [pointblank/]: 14724 handling client fire request
+[31Mar2025 21:35:14.724] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 19
+[31Mar2025 21:35:14.724] [Server thread/DEBUG] [pointblank/]: 14724 - obtained hit result in 0ms
+[31Mar2025 21:35:14.724] [Server thread/DEBUG] [pointblank/]: 14724 obtained hit results
+[31Mar2025 21:35:14.724] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@54b06a94
+[31Mar2025 21:35:14.725] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.49, y=66.00, z=-39.08] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.49, y=66.00, z=-39.08]
+[31Mar2025 21:35:14.871] [Server thread/DEBUG] [pointblank/]: 14871 handling client fire request
+[31Mar2025 21:35:14.871] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 18
+[31Mar2025 21:35:14.871] [Server thread/DEBUG] [pointblank/]: 14871 - obtained hit result in 0ms
+[31Mar2025 21:35:14.871] [Server thread/DEBUG] [pointblank/]: 14871 obtained hit results
+[31Mar2025 21:35:14.871] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@427d98e7
+[31Mar2025 21:35:14.872] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.58, y=66.00, z=-39.15] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.58, y=66.00, z=-39.15]
+[31Mar2025 21:35:15.177] [Server thread/DEBUG] [pointblank/]: 15177 handling client fire request
+[31Mar2025 21:35:15.177] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 17
+[31Mar2025 21:35:15.177] [Server thread/DEBUG] [pointblank/]: 15177 - obtained hit result in 0ms
+[31Mar2025 21:35:15.177] [Server thread/DEBUG] [pointblank/]: 15177 obtained hit results
+[31Mar2025 21:35:15.177] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@60ab41b9
+[31Mar2025 21:35:15.178] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16]
+[31Mar2025 21:35:15.314] [Server thread/DEBUG] [pointblank/]: 15314 handling client fire request
+[31Mar2025 21:35:15.314] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 16
+[31Mar2025 21:35:15.314] [Server thread/DEBUG] [pointblank/]: 15314 - obtained hit result in 0ms
+[31Mar2025 21:35:15.314] [Server thread/DEBUG] [pointblank/]: 15314 obtained hit results
+[31Mar2025 21:35:15.314] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3a66ca45
+[31Mar2025 21:35:15.314] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16]
+[31Mar2025 21:35:16.710] [Server thread/DEBUG] [pointblank/]: 16710 handling client fire request
+[31Mar2025 21:35:16.711] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 15
+[31Mar2025 21:35:16.711] [Server thread/DEBUG] [pointblank/]: 16711 - obtained hit result in 0ms
+[31Mar2025 21:35:16.711] [Server thread/DEBUG] [pointblank/]: 16711 obtained hit results
+[31Mar2025 21:35:16.711] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@39a79464
+[31Mar2025 21:35:16.711] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16]
+[31Mar2025 21:35:16.865] [Server thread/DEBUG] [pointblank/]: 16865 handling client fire request
+[31Mar2025 21:35:16.865] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 14
+[31Mar2025 21:35:16.865] [Server thread/DEBUG] [pointblank/]: 16865 - obtained hit result in 0ms
+[31Mar2025 21:35:16.866] [Server thread/DEBUG] [pointblank/]: 16866 obtained hit results
+[31Mar2025 21:35:16.866] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@52103461
+[31Mar2025 21:35:16.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16]
+[31Mar2025 21:35:17.014] [Server thread/DEBUG] [pointblank/]: 17014 handling client fire request
+[31Mar2025 21:35:17.014] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 13
+[31Mar2025 21:35:17.014] [Server thread/DEBUG] [pointblank/]: 17014 - obtained hit result in 0ms
+[31Mar2025 21:35:17.014] [Server thread/DEBUG] [pointblank/]: 17014 obtained hit results
+[31Mar2025 21:35:17.014] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@44600b9f
+[31Mar2025 21:35:17.014] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16]
+[31Mar2025 21:35:17.162] [Server thread/DEBUG] [pointblank/]: 17162 handling client fire request
+[31Mar2025 21:35:17.163] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 12
+[31Mar2025 21:35:17.163] [Server thread/DEBUG] [pointblank/]: 17163 - obtained hit result in 0ms
+[31Mar2025 21:35:17.163] [Server thread/DEBUG] [pointblank/]: 17163 obtained hit results
+[31Mar2025 21:35:17.163] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@56c15f59
+[31Mar2025 21:35:17.163] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16]
+[31Mar2025 21:35:17.312] [Server thread/DEBUG] [pointblank/]: 17312 handling client fire request
+[31Mar2025 21:35:17.312] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 11
+[31Mar2025 21:35:17.312] [Server thread/DEBUG] [pointblank/]: 17312 - obtained hit result in 0ms
+[31Mar2025 21:35:17.312] [Server thread/DEBUG] [pointblank/]: 17312 obtained hit results
+[31Mar2025 21:35:17.312] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2d827777
+[31Mar2025 21:35:17.312] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1888.59, y=66.00, z=-39.16]
+[31Mar2025 21:35:17.812] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 20
+[31Mar2025 21:35:20.460] [Server thread/DEBUG] [pointblank/]: 20460 handling client fire request
+[31Mar2025 21:35:20.460] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 19
+[31Mar2025 21:35:20.460] [Server thread/DEBUG] [pointblank/]: 20460 - obtained hit result in 0ms
+[31Mar2025 21:35:20.460] [Server thread/DEBUG] [pointblank/]: 20460 obtained hit results
+[31Mar2025 21:35:20.460] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@262ee13f
+[31Mar2025 21:35:20.461] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67]
+[31Mar2025 21:35:21.160] [Server thread/DEBUG] [pointblank/]: 21160 handling client fire request
+[31Mar2025 21:35:21.160] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 18
+[31Mar2025 21:35:21.160] [Server thread/DEBUG] [pointblank/]: 21160 - obtained hit result in 0ms
+[31Mar2025 21:35:21.160] [Server thread/DEBUG] [pointblank/]: 21160 obtained hit results
+[31Mar2025 21:35:21.160] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c4e5972
+[31Mar2025 21:35:21.162] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67]
+[31Mar2025 21:35:21.360] [Server thread/DEBUG] [pointblank/]: 21360 handling client fire request
+[31Mar2025 21:35:21.361] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 17
+[31Mar2025 21:35:21.361] [Server thread/DEBUG] [pointblank/]: 21361 - obtained hit result in 0ms
+[31Mar2025 21:35:21.361] [Server thread/DEBUG] [pointblank/]: 21361 obtained hit results
+[31Mar2025 21:35:21.361] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3aa96af
+[31Mar2025 21:35:21.361] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67]
+[31Mar2025 21:35:21.512] [Server thread/DEBUG] [pointblank/]: 21512 handling client fire request
+[31Mar2025 21:35:21.512] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 16
+[31Mar2025 21:35:21.512] [Server thread/DEBUG] [pointblank/]: 21512 - obtained hit result in 0ms
+[31Mar2025 21:35:21.512] [Server thread/DEBUG] [pointblank/]: 21512 obtained hit results
+[31Mar2025 21:35:21.512] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@366ef586
+[31Mar2025 21:35:21.513] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67]
+[31Mar2025 21:35:21.664] [Server thread/DEBUG] [pointblank/]: 21664 handling client fire request
+[31Mar2025 21:35:21.664] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 15
+[31Mar2025 21:35:21.664] [Server thread/DEBUG] [pointblank/]: 21664 - obtained hit result in 0ms
+[31Mar2025 21:35:21.664] [Server thread/DEBUG] [pointblank/]: 21664 obtained hit results
+[31Mar2025 21:35:21.664] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4512a0b4
+[31Mar2025 21:35:21.664] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67]
+[31Mar2025 21:35:21.811] [Server thread/DEBUG] [pointblank/]: 21811 handling client fire request
+[31Mar2025 21:35:21.811] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 14
+[31Mar2025 21:35:21.811] [Server thread/DEBUG] [pointblank/]: 21811 - obtained hit result in 0ms
+[31Mar2025 21:35:21.811] [Server thread/DEBUG] [pointblank/]: 21811 obtained hit results
+[31Mar2025 21:35:21.811] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39d23bdf
+[31Mar2025 21:35:21.812] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67]
+[31Mar2025 21:35:21.966] [Server thread/DEBUG] [pointblank/]: 21966 handling client fire request
+[31Mar2025 21:35:21.966] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 13
+[31Mar2025 21:35:21.967] [Server thread/DEBUG] [pointblank/]: 21967 - obtained hit result in 0ms
+[31Mar2025 21:35:21.967] [Server thread/DEBUG] [pointblank/]: 21967 obtained hit results
+[31Mar2025 21:35:21.967] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@69153b51
+[31Mar2025 21:35:21.967] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67]
+[31Mar2025 21:35:22.112] [Server thread/DEBUG] [pointblank/]: 22112 handling client fire request
+[31Mar2025 21:35:22.112] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 12
+[31Mar2025 21:35:22.112] [Server thread/DEBUG] [pointblank/]: 22112 - obtained hit result in 0ms
+[31Mar2025 21:35:22.112] [Server thread/DEBUG] [pointblank/]: 22112 obtained hit results
+[31Mar2025 21:35:22.113] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2f9e00e8
+[31Mar2025 21:35:22.113] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67]
+[31Mar2025 21:35:22.263] [Server thread/DEBUG] [pointblank/]: 22263 handling client fire request
+[31Mar2025 21:35:22.264] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 11
+[31Mar2025 21:35:22.264] [Server thread/DEBUG] [pointblank/]: 22264 - obtained hit result in 0ms
+[31Mar2025 21:35:22.264] [Server thread/DEBUG] [pointblank/]: 22264 obtained hit results
+[31Mar2025 21:35:22.264] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b863e19
+[31Mar2025 21:35:22.265] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67]
+[31Mar2025 21:35:22.764] [Server thread/DEBUG] [pointblank/]: 22764 handling client fire request
+[31Mar2025 21:35:22.764] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 10
+[31Mar2025 21:35:22.765] [Server thread/DEBUG] [pointblank/]: 22765 - obtained hit result in 1ms
+[31Mar2025 21:35:22.765] [Server thread/DEBUG] [pointblank/]: 22765 obtained hit results
+[31Mar2025 21:35:22.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@218f120c
+[31Mar2025 21:35:22.783] [Server thread/DEBUG] [pointblank/]: Creating state 53655621-38b6-4cea-bb17-f991bfee84e5
+[31Mar2025 21:35:22.801] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67]
+[31Mar2025 21:35:23.409] [Server thread/DEBUG] [pointblank/]: 23409 handling client fire request
+[31Mar2025 21:35:23.409] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 9
+[31Mar2025 21:35:23.409] [Server thread/DEBUG] [pointblank/]: 23409 - obtained hit result in 0ms
+[31Mar2025 21:35:23.409] [Server thread/DEBUG] [pointblank/]: 23409 obtained hit results
+[31Mar2025 21:35:23.409] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@504a204f
+[31Mar2025 21:35:23.409] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1885.82, y=65.00, z=-36.67]
+[31Mar2025 21:35:23.865] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 20
+[31Mar2025 21:35:28.062] [Server thread/DEBUG] [pointblank/]: 28062 handling client fire request
+[31Mar2025 21:35:28.062] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 19
+[31Mar2025 21:35:28.062] [Server thread/DEBUG] [pointblank/]: 28062 - obtained hit result in 0ms
+[31Mar2025 21:35:28.062] [Server thread/DEBUG] [pointblank/]: 28062 obtained hit results
+[31Mar2025 21:35:28.062] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@580cb67f
+[31Mar2025 21:35:28.062] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.00, y=66.25, z=-25.21] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.00, y=66.25, z=-25.21]
+[31Mar2025 21:35:28.962] [Server thread/DEBUG] [pointblank/]: 28962 handling client fire request
+[31Mar2025 21:35:28.962] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 18
+[31Mar2025 21:35:28.963] [Server thread/DEBUG] [pointblank/]: 28963 - obtained hit result in 0ms
+[31Mar2025 21:35:28.963] [Server thread/DEBUG] [pointblank/]: 28963 obtained hit results
+[31Mar2025 21:35:28.963] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54677826
+[31Mar2025 21:35:28.963] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.68, y=66.02, z=-23.94] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.68, y=66.02, z=-23.94]
+[31Mar2025 21:35:29.162] [Server thread/DEBUG] [pointblank/]: 29162 handling client fire request
+[31Mar2025 21:35:29.162] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 17
+[31Mar2025 21:35:29.162] [Server thread/DEBUG] [pointblank/]: 29162 - obtained hit result in 0ms
+[31Mar2025 21:35:29.162] [Server thread/DEBUG] [pointblank/]: 29162 obtained hit results
+[31Mar2025 21:35:29.162] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@712bdc63
+[31Mar2025 21:35:29.163] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.68, y=66.00, z=-23.23] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.68, y=66.00, z=-23.23]
+[31Mar2025 21:35:29.319] [Server thread/DEBUG] [pointblank/]: 29319 handling client fire request
+[31Mar2025 21:35:29.319] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 16
+[31Mar2025 21:35:29.319] [Server thread/DEBUG] [pointblank/]: 29319 - obtained hit result in 0ms
+[31Mar2025 21:35:29.319] [Server thread/DEBUG] [pointblank/]: 29319 obtained hit results
+[31Mar2025 21:35:29.319] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@598cbbf0
+[31Mar2025 21:35:29.320] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.68, y=66.00, z=-22.59] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.68, y=66.00, z=-22.59]
+[31Mar2025 21:35:29.462] [Server thread/DEBUG] [pointblank/]: 29462 handling client fire request
+[31Mar2025 21:35:29.462] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 15
+[31Mar2025 21:35:29.462] [Server thread/DEBUG] [pointblank/]: 29462 - obtained hit result in 0ms
+[31Mar2025 21:35:29.462] [Server thread/DEBUG] [pointblank/]: 29462 obtained hit results
+[31Mar2025 21:35:29.462] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@12ac5d0c
+[31Mar2025 21:35:29.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.56, y=66.00, z=-21.99] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.56, y=66.00, z=-21.99]
+[31Mar2025 21:35:29.615] [Server thread/DEBUG] [pointblank/]: 29615 handling client fire request
+[31Mar2025 21:35:29.615] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 14
+[31Mar2025 21:35:29.615] [Server thread/DEBUG] [pointblank/]: 29615 - obtained hit result in 0ms
+[31Mar2025 21:35:29.615] [Server thread/DEBUG] [pointblank/]: 29615 obtained hit results
+[31Mar2025 21:35:29.615] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b1f2a63
+[31Mar2025 21:35:29.616] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.50, y=66.00, z=-21.36] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.50, y=66.00, z=-21.36]
+[31Mar2025 21:35:29.768] [Server thread/DEBUG] [pointblank/]: 29768 handling client fire request
+[31Mar2025 21:35:29.769] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 13
+[31Mar2025 21:35:29.769] [Server thread/DEBUG] [pointblank/]: 29769 - obtained hit result in 0ms
+[31Mar2025 21:35:29.769] [Server thread/DEBUG] [pointblank/]: 29769 obtained hit results
+[31Mar2025 21:35:29.769] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@683baad9
+[31Mar2025 21:35:29.770] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.67, y=66.00, z=-20.78] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.67, y=66.00, z=-20.78]
+[31Mar2025 21:35:29.862] [Server thread/DEBUG] [pointblank/]: 29862 handling client fire request
+[31Mar2025 21:35:29.862] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 12
+[31Mar2025 21:35:29.862] [Server thread/DEBUG] [pointblank/]: 29862 - obtained hit result in 0ms
+[31Mar2025 21:35:29.862] [Server thread/DEBUG] [pointblank/]: 29862 obtained hit results
+[31Mar2025 21:35:29.862] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6b714d11
+[31Mar2025 21:35:29.863] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.75, y=66.00, z=-20.38] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.75, y=66.00, z=-20.38]
+[31Mar2025 21:35:30.014] [Server thread/DEBUG] [pointblank/]: 30014 handling client fire request
+[31Mar2025 21:35:30.015] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 11
+[31Mar2025 21:35:30.015] [Server thread/DEBUG] [pointblank/]: 30015 - obtained hit result in 0ms
+[31Mar2025 21:35:30.015] [Server thread/DEBUG] [pointblank/]: 30015 obtained hit results
+[31Mar2025 21:35:30.015] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@297f3e2e
+[31Mar2025 21:35:30.015] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.78, y=66.00, z=-19.75] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.78, y=66.00, z=-19.75]
+[31Mar2025 21:35:30.214] [Server thread/DEBUG] [pointblank/]: 30214 handling client fire request
+[31Mar2025 21:35:30.214] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 10
+[31Mar2025 21:35:30.214] [Server thread/DEBUG] [pointblank/]: 30214 - obtained hit result in 0ms
+[31Mar2025 21:35:30.214] [Server thread/DEBUG] [pointblank/]: 30214 obtained hit results
+[31Mar2025 21:35:30.214] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@56faa42c
+[31Mar2025 21:35:30.214] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.77, y=66.00, z=-18.89] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.77, y=66.00, z=-18.89]
+[31Mar2025 21:35:30.414] [Server thread/DEBUG] [pointblank/]: 30414 handling client fire request
+[31Mar2025 21:35:30.414] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 9
+[31Mar2025 21:35:30.414] [Server thread/DEBUG] [pointblank/]: 30414 - obtained hit result in 0ms
+[31Mar2025 21:35:30.414] [Server thread/DEBUG] [pointblank/]: 30414 obtained hit results
+[31Mar2025 21:35:30.414] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1601a5ab
+[31Mar2025 21:35:30.414] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.77, y=66.00, z=-18.02] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.77, y=66.00, z=-18.02]
+[31Mar2025 21:35:30.612] [Server thread/DEBUG] [pointblank/]: 30612 handling client fire request
+[31Mar2025 21:35:30.612] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 8
+[31Mar2025 21:35:30.612] [Server thread/DEBUG] [pointblank/]: 30612 - obtained hit result in 0ms
+[31Mar2025 21:35:30.612] [Server thread/DEBUG] [pointblank/]: 30612 obtained hit results
+[31Mar2025 21:35:30.612] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@419eb30b
+[31Mar2025 21:35:30.612] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.76, y=66.00, z=-17.38] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.76, y=66.00, z=-17.38]
+[31Mar2025 21:35:30.711] [Server thread/DEBUG] [pointblank/]: 30711 handling client fire request
+[31Mar2025 21:35:30.712] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 7
+[31Mar2025 21:35:30.712] [Server thread/DEBUG] [pointblank/]: 30712 - obtained hit result in 0ms
+[31Mar2025 21:35:30.712] [Server thread/DEBUG] [pointblank/]: 30712 obtained hit results
+[31Mar2025 21:35:30.712] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6467af01
+[31Mar2025 21:35:30.712] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.73, y=66.00, z=-16.73] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.73, y=66.00, z=-16.73]
+[31Mar2025 21:35:30.865] [Server thread/DEBUG] [pointblank/]: 30865 handling client fire request
+[31Mar2025 21:35:30.865] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 6
+[31Mar2025 21:35:30.865] [Server thread/DEBUG] [pointblank/]: 30865 - obtained hit result in 0ms
+[31Mar2025 21:35:30.865] [Server thread/DEBUG] [pointblank/]: 30865 obtained hit results
+[31Mar2025 21:35:30.865] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54557fd5
+[31Mar2025 21:35:30.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.68, y=66.00, z=-16.08] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.68, y=66.00, z=-16.08]
+[31Mar2025 21:35:31.031] [Server thread/DEBUG] [pointblank/]: 31031 handling client fire request
+[31Mar2025 21:35:31.032] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 5
+[31Mar2025 21:35:31.032] [Server thread/DEBUG] [pointblank/]: 31032 - obtained hit result in 0ms
+[31Mar2025 21:35:31.032] [Server thread/DEBUG] [pointblank/]: 31032 obtained hit results
+[31Mar2025 21:35:31.032] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@673bd7b5
+[31Mar2025 21:35:31.033] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.63, y=66.00, z=-15.44] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.63, y=66.00, z=-15.44]
+[31Mar2025 21:35:31.118] [Server thread/DEBUG] [pointblank/]: 31118 handling client fire request
+[31Mar2025 21:35:31.118] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 4
+[31Mar2025 21:35:31.118] [Server thread/DEBUG] [pointblank/]: 31118 - obtained hit result in 0ms
+[31Mar2025 21:35:31.118] [Server thread/DEBUG] [pointblank/]: 31118 obtained hit results
+[31Mar2025 21:35:31.118] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@469153e4
+[31Mar2025 21:35:31.119] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.58, y=66.00, z=-15.01] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.58, y=66.00, z=-15.01]
+[31Mar2025 21:35:31.759] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 20
+[31Mar2025 21:35:33.521] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[31Mar2025 21:35:36.066] [Server thread/DEBUG] [pointblank/]: 36066 handling client fire request
+[31Mar2025 21:35:36.066] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 19
+[31Mar2025 21:35:36.066] [Server thread/DEBUG] [pointblank/]: 36066 - obtained hit result in 0ms
+[31Mar2025 21:35:36.066] [Server thread/DEBUG] [pointblank/]: 36066 obtained hit results
+[31Mar2025 21:35:36.066] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2d8eac1d
+[31Mar2025 21:35:36.067] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1875.81, y=64.00, z=10.76] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1875.81, y=64.00, z=10.76]
+[31Mar2025 21:35:36.161] [Server thread/DEBUG] [pointblank/]: 36161 handling client fire request
+[31Mar2025 21:35:36.161] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 18
+[31Mar2025 21:35:36.162] [Server thread/DEBUG] [pointblank/]: 36162 - obtained hit result in 0ms
+[31Mar2025 21:35:36.162] [Server thread/DEBUG] [pointblank/]: 36162 obtained hit results
+[31Mar2025 21:35:36.162] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@56148d0
+[31Mar2025 21:35:36.163] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1875.69, y=64.00, z=10.94] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1875.69, y=64.00, z=10.94]
+[31Mar2025 21:35:36.217] [Server thread/DEBUG] [pointblank/]: 36217 handling client fire request
+[31Mar2025 21:35:36.217] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 17
+[31Mar2025 21:35:36.217] [Server thread/DEBUG] [pointblank/]: 36217 - obtained hit result in 0ms
+[31Mar2025 21:35:36.217] [Server thread/DEBUG] [pointblank/]: 36217 obtained hit results
+[31Mar2025 21:35:36.217] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4a86272d
+[31Mar2025 21:35:36.217] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1875.44, y=64.00, z=11.31] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1875.44, y=64.00, z=11.31]
+[31Mar2025 21:35:36.313] [Server thread/DEBUG] [pointblank/]: 36313 handling client fire request
+[31Mar2025 21:35:36.313] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 16
+[31Mar2025 21:35:36.313] [Server thread/DEBUG] [pointblank/]: 36313 - obtained hit result in 0ms
+[31Mar2025 21:35:36.313] [Server thread/DEBUG] [pointblank/]: 36313 obtained hit results
+[31Mar2025 21:35:36.314] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@422ca0b0
+[31Mar2025 21:35:36.314] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1875.31, y=64.00, z=11.49] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1875.31, y=64.00, z=11.49]
+[31Mar2025 21:35:36.390] [Server thread/DEBUG] [pointblank/]: 36390 handling client fire request
+[31Mar2025 21:35:36.390] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 15
+[31Mar2025 21:35:36.390] [Server thread/DEBUG] [pointblank/]: 36390 - obtained hit result in 0ms
+[31Mar2025 21:35:36.390] [Server thread/DEBUG] [pointblank/]: 36390 obtained hit results
+[31Mar2025 21:35:36.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2b17cc1d
+[31Mar2025 21:35:36.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1875.05, y=64.00, z=11.84] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1875.05, y=64.00, z=11.84]
+[31Mar2025 21:35:36.441] [Server thread/DEBUG] [pointblank/]: 36441 handling client fire request
+[31Mar2025 21:35:36.441] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 14
+[31Mar2025 21:35:36.442] [Server thread/DEBUG] [pointblank/]: 36442 - obtained hit result in 0ms
+[31Mar2025 21:35:36.442] [Server thread/DEBUG] [pointblank/]: 36442 obtained hit results
+[31Mar2025 21:35:36.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@71c19b4b
+[31Mar2025 21:35:36.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1874.92, y=64.00, z=12.02] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1874.92, y=64.00, z=12.02]
+[31Mar2025 21:35:36.528] [Server thread/DEBUG] [pointblank/]: 36528 handling client fire request
+[31Mar2025 21:35:36.528] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 13
+[31Mar2025 21:35:36.528] [Server thread/DEBUG] [pointblank/]: 36528 - obtained hit result in 0ms
+[31Mar2025 21:35:36.528] [Server thread/DEBUG] [pointblank/]: 36528 obtained hit results
+[31Mar2025 21:35:36.528] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@76145fd9
+[31Mar2025 21:35:36.528] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1874.65, y=64.00, z=12.36] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1874.65, y=64.00, z=12.36]
+[31Mar2025 21:35:36.627] [Server thread/DEBUG] [pointblank/]: 36627 handling client fire request
+[31Mar2025 21:35:36.627] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 12
+[31Mar2025 21:35:36.628] [Server thread/DEBUG] [pointblank/]: 36628 - obtained hit result in 0ms
+[31Mar2025 21:35:36.628] [Server thread/DEBUG] [pointblank/]: 36628 obtained hit results
+[31Mar2025 21:35:36.628] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2c1d68d2
+[31Mar2025 21:35:36.628] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1874.36, y=64.00, z=12.70] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1874.36, y=64.00, z=12.70]
+[31Mar2025 21:35:36.763] [Server thread/DEBUG] [pointblank/]: 36763 handling client fire request
+[31Mar2025 21:35:36.763] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 11
+[31Mar2025 21:35:36.763] [Server thread/DEBUG] [pointblank/]: 36763 - obtained hit result in 0ms
+[31Mar2025 21:35:36.763] [Server thread/DEBUG] [pointblank/]: 36763 obtained hit results
+[31Mar2025 21:35:36.763] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3bbf5d90
+[31Mar2025 21:35:36.763] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1874.21, y=64.00, z=12.86] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1874.21, y=64.00, z=12.86]
+[31Mar2025 21:35:36.775] [Server thread/DEBUG] [pointblank/]: 36775 handling client fire request
+[31Mar2025 21:35:36.775] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 10
+[31Mar2025 21:35:36.775] [Server thread/DEBUG] [pointblank/]: 36775 - obtained hit result in 0ms
+[31Mar2025 21:35:36.775] [Server thread/DEBUG] [pointblank/]: 36775 obtained hit results
+[31Mar2025 21:35:36.775] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6c8ab030
+[31Mar2025 21:35:36.775] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.91, y=64.00, z=13.18] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.91, y=64.00, z=13.18]
+[31Mar2025 21:35:36.862] [Server thread/DEBUG] [pointblank/]: 36862 handling client fire request
+[31Mar2025 21:35:36.862] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 9
+[31Mar2025 21:35:36.862] [Server thread/DEBUG] [pointblank/]: 36862 - obtained hit result in 0ms
+[31Mar2025 21:35:36.862] [Server thread/DEBUG] [pointblank/]: 36862 obtained hit results
+[31Mar2025 21:35:36.862] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@36060106
+[31Mar2025 21:35:36.863] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.61, y=64.00, z=13.50] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.61, y=64.00, z=13.50]
+[31Mar2025 21:35:37.060] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 20
+[31Mar2025 21:35:38.812] [Server thread/DEBUG] [pointblank/]: 38812 handling client fire request
+[31Mar2025 21:35:38.812] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 19
+[31Mar2025 21:35:38.812] [Server thread/DEBUG] [pointblank/]: 38812 - obtained hit result in 0ms
+[31Mar2025 21:35:38.812] [Server thread/DEBUG] [pointblank/]: 38812 obtained hit results
+[31Mar2025 21:35:38.812] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7eb79f5
+[31Mar2025 21:35:38.813] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.51, y=64.00, z=17.46] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.51, y=64.00, z=17.46]
+[31Mar2025 21:35:38.879] [Server thread/DEBUG] [pointblank/]: 38879 handling client fire request
+[31Mar2025 21:35:38.879] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 18
+[31Mar2025 21:35:38.879] [Server thread/DEBUG] [pointblank/]: 38879 - obtained hit result in 0ms
+[31Mar2025 21:35:38.879] [Server thread/DEBUG] [pointblank/]: 38879 obtained hit results
+[31Mar2025 21:35:38.879] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@159cc805
+[31Mar2025 21:35:38.880] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.56, y=64.00, z=17.65] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.56, y=64.00, z=17.65]
+[31Mar2025 21:35:38.962] [Server thread/DEBUG] [pointblank/]: 38962 handling client fire request
+[31Mar2025 21:35:38.962] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 17
+[31Mar2025 21:35:38.963] [Server thread/DEBUG] [pointblank/]: 38963 - obtained hit result in 1ms
+[31Mar2025 21:35:38.963] [Server thread/DEBUG] [pointblank/]: 38963 obtained hit results
+[31Mar2025 21:35:38.963] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3df8b67e
+[31Mar2025 21:35:38.963] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.71, y=64.00, z=18.04] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.71, y=64.00, z=18.04]
+[31Mar2025 21:35:39.039] [Server thread/DEBUG] [pointblank/]: 39039 handling client fire request
+[31Mar2025 21:35:39.039] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 16
+[31Mar2025 21:35:39.039] [Server thread/DEBUG] [pointblank/]: 39039 - obtained hit result in 0ms
+[31Mar2025 21:35:39.039] [Server thread/DEBUG] [pointblank/]: 39039 obtained hit results
+[31Mar2025 21:35:39.039] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@618044e5
+[31Mar2025 21:35:39.039] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.80, y=64.00, z=18.23] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.80, y=64.00, z=18.23]
+[31Mar2025 21:35:39.124] [Server thread/DEBUG] [pointblank/]: 39124 handling client fire request
+[31Mar2025 21:35:39.124] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 15
+[31Mar2025 21:35:39.124] [Server thread/DEBUG] [pointblank/]: 39124 - obtained hit result in 0ms
+[31Mar2025 21:35:39.124] [Server thread/DEBUG] [pointblank/]: 39124 obtained hit results
+[31Mar2025 21:35:39.124] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@107bf80d
+[31Mar2025 21:35:39.125] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.03, y=64.00, z=18.49] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.03, y=64.00, z=18.49]
+[31Mar2025 21:35:39.211] [Server thread/DEBUG] [pointblank/]: 39211 handling client fire request
+[31Mar2025 21:35:39.211] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 14
+[31Mar2025 21:35:39.212] [Server thread/DEBUG] [pointblank/]: 39212 - obtained hit result in 1ms
+[31Mar2025 21:35:39.212] [Server thread/DEBUG] [pointblank/]: 39212 obtained hit results
+[31Mar2025 21:35:39.212] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@281ac5ed
+[31Mar2025 21:35:39.212] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.24, y=64.00, z=18.38] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.24, y=64.00, z=18.38]
+[31Mar2025 21:35:39.317] [Server thread/DEBUG] [pointblank/]: 39317 handling client fire request
+[31Mar2025 21:35:39.317] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 13
+[31Mar2025 21:35:39.317] [Server thread/DEBUG] [pointblank/]: 39317 - obtained hit result in 0ms
+[31Mar2025 21:35:39.317] [Server thread/DEBUG] [pointblank/]: 39317 obtained hit results
+[31Mar2025 21:35:39.317] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46e9fd92
+[31Mar2025 21:35:39.318] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.21, y=64.00, z=18.25] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.21, y=64.00, z=18.25]
+[31Mar2025 21:35:39.375] [Server thread/DEBUG] [pointblank/]: 39375 handling client fire request
+[31Mar2025 21:35:39.375] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 12
+[31Mar2025 21:35:39.375] [Server thread/DEBUG] [pointblank/]: 39375 - obtained hit result in 0ms
+[31Mar2025 21:35:39.375] [Server thread/DEBUG] [pointblank/]: 39375 obtained hit results
+[31Mar2025 21:35:39.375] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2f492316
+[31Mar2025 21:35:39.376] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.05, y=64.00, z=18.09] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.05, y=64.00, z=18.09]
+[31Mar2025 21:35:39.478] [Server thread/DEBUG] [pointblank/]: 39478 handling client fire request
+[31Mar2025 21:35:39.478] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 11
+[31Mar2025 21:35:39.478] [Server thread/DEBUG] [pointblank/]: 39478 - obtained hit result in 0ms
+[31Mar2025 21:35:39.479] [Server thread/DEBUG] [pointblank/]: 39479 obtained hit results
+[31Mar2025 21:35:39.479] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@55e50806
+[31Mar2025 21:35:39.479] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.21, y=64.00, z=17.92] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.21, y=64.00, z=17.92]
+[31Mar2025 21:35:39.565] [Server thread/DEBUG] [pointblank/]: 39565 handling client fire request
+[31Mar2025 21:35:39.565] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 10
+[31Mar2025 21:35:39.565] [Server thread/DEBUG] [pointblank/]: 39565 - obtained hit result in 0ms
+[31Mar2025 21:35:39.565] [Server thread/DEBUG] [pointblank/]: 39565 obtained hit results
+[31Mar2025 21:35:39.565] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1419fe7d
+[31Mar2025 21:35:39.566] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.19, y=64.00, z=17.92] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.19, y=64.00, z=17.92]
+[31Mar2025 21:35:39.615] [Server thread/DEBUG] [pointblank/]: 39615 handling client fire request
+[31Mar2025 21:35:39.615] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 9
+[31Mar2025 21:35:39.615] [Server thread/DEBUG] [pointblank/]: 39615 - obtained hit result in 0ms
+[31Mar2025 21:35:39.615] [Server thread/DEBUG] [pointblank/]: 39615 obtained hit results
+[31Mar2025 21:35:39.615] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4942c718
+[31Mar2025 21:35:39.616] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.96, y=64.00, z=18.04] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.96, y=64.00, z=18.04]
+[31Mar2025 21:35:39.712] [Server thread/DEBUG] [pointblank/]: 39712 handling client fire request
+[31Mar2025 21:35:39.712] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 8
+[31Mar2025 21:35:39.713] [Server thread/DEBUG] [pointblank/]: 39713 - obtained hit result in 1ms
+[31Mar2025 21:35:39.713] [Server thread/DEBUG] [pointblank/]: 39713 obtained hit results
+[31Mar2025 21:35:39.713] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6264a44b
+[31Mar2025 21:35:39.713] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.97, y=64.00, z=18.03] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.97, y=64.00, z=18.03]
+[31Mar2025 21:35:39.867] [Server thread/DEBUG] [pointblank/]: 39867 handling client fire request
+[31Mar2025 21:35:39.867] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 7
+[31Mar2025 21:35:39.867] [Server thread/DEBUG] [pointblank/]: 39867 - obtained hit result in 0ms
+[31Mar2025 21:35:39.867] [Server thread/DEBUG] [pointblank/]: 39867 obtained hit results
+[31Mar2025 21:35:39.867] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71107d9d
+[31Mar2025 21:35:39.868] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.10, y=64.00, z=17.95] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.10, y=64.00, z=17.95]
+[31Mar2025 21:35:39.927] [Server thread/DEBUG] [pointblank/]: 39927 handling client fire request
+[31Mar2025 21:35:39.927] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 6
+[31Mar2025 21:35:39.927] [Server thread/DEBUG] [pointblank/]: 39927 - obtained hit result in 0ms
+[31Mar2025 21:35:39.927] [Server thread/DEBUG] [pointblank/]: 39927 obtained hit results
+[31Mar2025 21:35:39.927] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6934a1c1
+[31Mar2025 21:35:39.928] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.37, y=64.00, z=18.30] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.37, y=64.00, z=18.30]
+[31Mar2025 21:35:40.023] [Server thread/DEBUG] [pointblank/]: 40023 handling client fire request
+[31Mar2025 21:35:40.023] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 5
+[31Mar2025 21:35:40.023] [Server thread/DEBUG] [pointblank/]: 40023 - obtained hit result in 0ms
+[31Mar2025 21:35:40.023] [Server thread/DEBUG] [pointblank/]: 40023 obtained hit results
+[31Mar2025 21:35:40.023] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ad17eaf
+[31Mar2025 21:35:40.024] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.58, y=64.00, z=18.64] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.58, y=64.00, z=18.64]
+[31Mar2025 21:35:40.113] [Server thread/DEBUG] [pointblank/]: 40113 handling client fire request
+[31Mar2025 21:35:40.113] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 4
+[31Mar2025 21:35:40.113] [Server thread/DEBUG] [pointblank/]: 40113 - obtained hit result in 0ms
+[31Mar2025 21:35:40.113] [Server thread/DEBUG] [pointblank/]: 40113 obtained hit results
+[31Mar2025 21:35:40.113] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@42ef45e3
+[31Mar2025 21:35:40.114] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.68, y=64.00, z=18.82] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.68, y=64.00, z=18.82]
+[31Mar2025 21:35:40.178] [Server thread/DEBUG] [pointblank/]: 40178 handling client fire request
+[31Mar2025 21:35:40.178] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 3
+[31Mar2025 21:35:40.178] [Server thread/DEBUG] [pointblank/]: 40178 - obtained hit result in 0ms
+[31Mar2025 21:35:40.178] [Server thread/DEBUG] [pointblank/]: 40178 obtained hit results
+[31Mar2025 21:35:40.178] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4352917d
+[31Mar2025 21:35:40.179] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.90, y=64.00, z=19.19] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.90, y=64.00, z=19.19]
+[31Mar2025 21:35:40.263] [Server thread/DEBUG] [pointblank/]: 40263 handling client fire request
+[31Mar2025 21:35:40.263] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 2
+[31Mar2025 21:35:40.264] [Server thread/DEBUG] [pointblank/]: 40264 - obtained hit result in 0ms
+[31Mar2025 21:35:40.264] [Server thread/DEBUG] [pointblank/]: 40264 obtained hit results
+[31Mar2025 21:35:40.264] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@700f431f
+[31Mar2025 21:35:40.265] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.93, y=64.00, z=19.59] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.93, y=64.00, z=19.59]
+[31Mar2025 21:35:40.362] [Server thread/DEBUG] [pointblank/]: 40362 handling client fire request
+[31Mar2025 21:35:40.363] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 1
+[31Mar2025 21:35:40.363] [Server thread/DEBUG] [pointblank/]: 40363 - obtained hit result in 0ms
+[31Mar2025 21:35:40.363] [Server thread/DEBUG] [pointblank/]: 40363 obtained hit results
+[31Mar2025 21:35:40.363] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7273594d
+[31Mar2025 21:35:40.363] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.86, y=64.00, z=20.01] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.86, y=64.00, z=20.01]
+[31Mar2025 21:35:40.461] [Server thread/DEBUG] [pointblank/]: 40461 handling client fire request
+[31Mar2025 21:35:40.461] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 0
+[31Mar2025 21:35:40.461] [Server thread/DEBUG] [pointblank/]: 40461 - obtained hit result in 0ms
+[31Mar2025 21:35:40.461] [Server thread/DEBUG] [pointblank/]: 40461 obtained hit results
+[31Mar2025 21:35:40.461] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@104d58d2
+[31Mar2025 21:35:40.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.89, y=64.00, z=20.21] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.89, y=64.00, z=20.21]
+[31Mar2025 21:35:40.911] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 20
+[31Mar2025 21:35:42.613] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[],fmid:[I;-869994151,877606208,-1521417059,-1120999094],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[31Mar2025 21:35:43.164] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:5L,aim:1b,ammo:20,ammox:{},as:[],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[31Mar2025 21:35:43.419] [Server thread/DEBUG] [pointblank/]: 43419 handling client fire request
+[31Mar2025 21:35:43.419] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 19
+[31Mar2025 21:35:43.419] [Server thread/DEBUG] [pointblank/]: 43419 - obtained hit result in 0ms
+[31Mar2025 21:35:43.419] [Server thread/DEBUG] [pointblank/]: 43419 obtained hit results
+[31Mar2025 21:35:43.419] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@729b0bdc
+[31Mar2025 21:35:43.420] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.31, y=64.00, z=13.87] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.31, y=64.00, z=13.87]
+[31Mar2025 21:35:43.566] [Server thread/DEBUG] [pointblank/]: 43566 handling client fire request
+[31Mar2025 21:35:43.567] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 18
+[31Mar2025 21:35:43.567] [Server thread/DEBUG] [pointblank/]: 43567 - obtained hit result in 0ms
+[31Mar2025 21:35:43.567] [Server thread/DEBUG] [pointblank/]: 43567 obtained hit results
+[31Mar2025 21:35:43.567] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4bba1c56
+[31Mar2025 21:35:43.567] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1866.98, y=64.00, z=13.32] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1866.98, y=64.00, z=13.32]
+[31Mar2025 21:35:43.664] [Server thread/DEBUG] [pointblank/]: 43664 handling client fire request
+[31Mar2025 21:35:43.664] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 17
+[31Mar2025 21:35:43.664] [Server thread/DEBUG] [pointblank/]: 43664 - obtained hit result in 0ms
+[31Mar2025 21:35:43.664] [Server thread/DEBUG] [pointblank/]: 43664 obtained hit results
+[31Mar2025 21:35:43.664] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b327e9b
+[31Mar2025 21:35:43.665] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.00, y=64.00, z=12.96] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.00, y=64.00, z=12.96]
+[31Mar2025 21:35:43.723] [Server thread/DEBUG] [pointblank/]: 43723 handling client fire request
+[31Mar2025 21:35:43.723] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 16
+[31Mar2025 21:35:43.723] [Server thread/DEBUG] [pointblank/]: 43723 - obtained hit result in 0ms
+[31Mar2025 21:35:43.723] [Server thread/DEBUG] [pointblank/]: 43723 obtained hit results
+[31Mar2025 21:35:43.723] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2f62d1e2
+[31Mar2025 21:35:43.724] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.12, y=64.00, z=12.82] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.12, y=64.00, z=12.82]
+[31Mar2025 21:35:43.811] [Server thread/DEBUG] [pointblank/]: 43811 handling client fire request
+[31Mar2025 21:35:43.811] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 15
+[31Mar2025 21:35:43.811] [Server thread/DEBUG] [pointblank/]: 43811 - obtained hit result in 0ms
+[31Mar2025 21:35:43.811] [Server thread/DEBUG] [pointblank/]: 43811 obtained hit results
+[31Mar2025 21:35:43.811] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6c0272e
+[31Mar2025 21:35:43.812] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.42, y=64.00, z=12.56] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.42, y=64.00, z=12.56]
+[31Mar2025 21:35:43.913] [Server thread/DEBUG] [pointblank/]: 43913 handling client fire request
+[31Mar2025 21:35:43.913] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 14
+[31Mar2025 21:35:43.913] [Server thread/DEBUG] [pointblank/]: 43913 - obtained hit result in 0ms
+[31Mar2025 21:35:43.913] [Server thread/DEBUG] [pointblank/]: 43913 obtained hit results
+[31Mar2025 21:35:43.913] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b3f32c2
+[31Mar2025 21:35:43.913] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.59, y=64.00, z=12.43] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.59, y=64.00, z=12.43]
+[31Mar2025 21:35:43.963] [Server thread/DEBUG] [pointblank/]: 43963 handling client fire request
+[31Mar2025 21:35:43.964] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 13
+[31Mar2025 21:35:43.964] [Server thread/DEBUG] [pointblank/]: 43964 - obtained hit result in 0ms
+[31Mar2025 21:35:43.964] [Server thread/DEBUG] [pointblank/]: 43964 obtained hit results
+[31Mar2025 21:35:43.964] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3cc19bdc
+[31Mar2025 21:35:43.964] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.95, y=64.00, z=12.39] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1867.95, y=64.00, z=12.39]
+[31Mar2025 21:35:44.173] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:5L,aim:1b,ammo:13,ammox:{},as:[],fmid:[I;-869994151,877606208,-1521417059,-1120999094],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[31Mar2025 21:35:44.266] [Server thread/DEBUG] [pointblank/]: 44266 handling client fire request
+[31Mar2025 21:35:44.266] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 12
+[31Mar2025 21:35:44.266] [Server thread/DEBUG] [pointblank/]: 44266 - obtained hit result in 0ms
+[31Mar2025 21:35:44.266] [Server thread/DEBUG] [pointblank/]: 44266 obtained hit results
+[31Mar2025 21:35:44.266] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43e7133b
+[31Mar2025 21:35:44.267] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1868.92, y=64.00, z=13.13] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1868.92, y=64.00, z=13.13]
+[31Mar2025 21:35:44.320] [Server thread/DEBUG] [pointblank/]: 44320 handling client fire request
+[31Mar2025 21:35:44.320] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 11
+[31Mar2025 21:35:44.320] [Server thread/DEBUG] [pointblank/]: 44320 - obtained hit result in 0ms
+[31Mar2025 21:35:44.320] [Server thread/DEBUG] [pointblank/]: 44320 obtained hit results
+[31Mar2025 21:35:44.320] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d87a780
+[31Mar2025 21:35:44.321] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.08, y=64.00, z=13.27] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1869.08, y=64.00, z=13.27]
+[31Mar2025 21:35:44.665] [Server thread/DEBUG] [pointblank/]: 44665 handling client fire request
+[31Mar2025 21:35:44.665] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 10
+[31Mar2025 21:35:44.665] [Server thread/DEBUG] [pointblank/]: 44665 - obtained hit result in 0ms
+[31Mar2025 21:35:44.665] [Server thread/DEBUG] [pointblank/]: 44665 obtained hit results
+[31Mar2025 21:35:44.665] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@eb0f4f1
+[31Mar2025 21:35:44.666] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.03, y=64.00, z=14.38] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.03, y=64.00, z=14.38]
+[31Mar2025 21:35:44.868] [Server thread/DEBUG] [pointblank/]: 44868 handling client fire request
+[31Mar2025 21:35:44.868] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 9
+[31Mar2025 21:35:44.868] [Server thread/DEBUG] [pointblank/]: 44868 - obtained hit result in 0ms
+[31Mar2025 21:35:44.868] [Server thread/DEBUG] [pointblank/]: 44868 obtained hit results
+[31Mar2025 21:35:44.868] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4d61825f
+[31Mar2025 21:35:44.869] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.62, y=64.00, z=15.00] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1870.62, y=64.00, z=15.00]
+[31Mar2025 21:35:45.011] [Server thread/DEBUG] [pointblank/]: 45011 handling client fire request
+[31Mar2025 21:35:45.011] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 8
+[31Mar2025 21:35:45.011] [Server thread/DEBUG] [pointblank/]: 45011 - obtained hit result in 0ms
+[31Mar2025 21:35:45.011] [Server thread/DEBUG] [pointblank/]: 45011 obtained hit results
+[31Mar2025 21:35:45.011] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54d1653e
+[31Mar2025 21:35:45.012] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1871.07, y=64.00, z=15.47] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1871.07, y=64.00, z=15.47]
+[31Mar2025 21:35:45.468] [Server thread/DEBUG] [pointblank/]: 45467 handling client fire request
+[31Mar2025 21:35:45.468] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 7
+[31Mar2025 21:35:45.468] [Server thread/DEBUG] [pointblank/]: 45468 - obtained hit result in 0ms
+[31Mar2025 21:35:45.468] [Server thread/DEBUG] [pointblank/]: 45468 obtained hit results
+[31Mar2025 21:35:45.468] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4cd4c8ba
+[31Mar2025 21:35:45.468] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1871.26, y=64.00, z=17.35] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1871.26, y=64.00, z=17.35]
+[31Mar2025 21:35:45.961] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:5L,aim:1b,ammo:7,ammox:{},as:[],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[31Mar2025 21:35:46.092] [Server thread/DEBUG] [pointblank/]: 46092 handling client fire request
+[31Mar2025 21:35:46.093] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 6
+[31Mar2025 21:35:46.093] [Server thread/DEBUG] [pointblank/]: 46093 - obtained hit result in 0ms
+[31Mar2025 21:35:46.093] [Server thread/DEBUG] [pointblank/]: 46093 obtained hit results
+[31Mar2025 21:35:46.094] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@571a9aac
+[31Mar2025 21:35:46.095] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.81, y=64.00, z=19.39] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1872.81, y=64.00, z=19.39]
+[31Mar2025 21:35:46.765] [Server thread/DEBUG] [pointblank/]: 46765 handling client fire request
+[31Mar2025 21:35:46.765] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 5
+[31Mar2025 21:35:46.765] [Server thread/DEBUG] [pointblank/]: 46765 - obtained hit result in 0ms
+[31Mar2025 21:35:46.765] [Server thread/DEBUG] [pointblank/]: 46765 obtained hit results
+[31Mar2025 21:35:46.765] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@47ef9973
+[31Mar2025 21:35:46.766] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.23, y=64.00, z=22.20] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.23, y=64.00, z=22.20]
+[31Mar2025 21:35:46.821] [Server thread/DEBUG] [pointblank/]: 46821 handling client fire request
+[31Mar2025 21:35:46.821] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 4
+[31Mar2025 21:35:46.821] [Server thread/DEBUG] [pointblank/]: 46821 - obtained hit result in 0ms
+[31Mar2025 21:35:46.821] [Server thread/DEBUG] [pointblank/]: 46821 obtained hit results
+[31Mar2025 21:35:46.821] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@976cb39
+[31Mar2025 21:35:46.822] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.32, y=64.00, z=22.39] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.32, y=64.00, z=22.39]
+[31Mar2025 21:35:46.913] [Server thread/DEBUG] [pointblank/]: 46913 handling client fire request
+[31Mar2025 21:35:46.913] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 3
+[31Mar2025 21:35:46.914] [Server thread/DEBUG] [pointblank/]: 46914 - obtained hit result in 0ms
+[31Mar2025 21:35:46.914] [Server thread/DEBUG] [pointblank/]: 46914 obtained hit results
+[31Mar2025 21:35:46.914] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2baf9c2e
+[31Mar2025 21:35:46.916] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.42, y=64.00, z=22.79] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.42, y=64.00, z=22.79]
+[31Mar2025 21:35:46.984] [Server thread/DEBUG] [pointblank/]: 46984 handling client fire request
+[31Mar2025 21:35:46.984] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 2
+[31Mar2025 21:35:46.984] [Server thread/DEBUG] [pointblank/]: 46984 - obtained hit result in 0ms
+[31Mar2025 21:35:46.984] [Server thread/DEBUG] [pointblank/]: 46984 obtained hit results
+[31Mar2025 21:35:46.984] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@ba43ac3
+[31Mar2025 21:35:46.984] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.39, y=64.00, z=23.00] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.39, y=64.00, z=23.00]
+[31Mar2025 21:35:47.071] [Server thread/DEBUG] [pointblank/]: 47071 handling client fire request
+[31Mar2025 21:35:47.072] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 1
+[31Mar2025 21:35:47.072] [Server thread/DEBUG] [pointblank/]: 47072 - obtained hit result in 0ms
+[31Mar2025 21:35:47.072] [Server thread/DEBUG] [pointblank/]: 47072 obtained hit results
+[31Mar2025 21:35:47.072] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5b17c3b5
+[31Mar2025 21:35:47.072] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.27, y=64.00, z=23.40] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1873.27, y=64.00, z=23.40]
+[31Mar2025 21:35:47.613] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 20
+[31Mar2025 21:35:49.669] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[],fmid:[I;-869994151,877606208,-1521417059,-1120999094],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[31Mar2025 21:36:41.754] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[31Mar2025 21:36:52.359] [Server thread/DEBUG] [pointblank/]: 12359 handling client fire request
+[31Mar2025 21:36:52.359] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 19
+[31Mar2025 21:36:52.359] [Server thread/DEBUG] [pointblank/]: 12359 - obtained hit result in 0ms
+[31Mar2025 21:36:52.359] [Server thread/DEBUG] [pointblank/]: 12359 obtained hit results
+[31Mar2025 21:36:52.359] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b4fcc31
+[31Mar2025 21:36:52.360] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1779.05, y=64.00, z=29.69] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1779.05, y=64.00, z=29.69]
+[31Mar2025 21:36:52.860] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:5L,aim:0b,ammo:19,ammox:{},as:[],fmid:[I;-2003212435,1528119213,-1447685183,-1702923800],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[31Mar2025 21:36:53.012] [Server thread/DEBUG] [pointblank/]: 13012 handling client fire request
+[31Mar2025 21:36:53.012] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 18
+[31Mar2025 21:36:53.012] [Server thread/DEBUG] [pointblank/]: 13012 - obtained hit result in 0ms
+[31Mar2025 21:36:53.012] [Server thread/DEBUG] [pointblank/]: 13012 obtained hit results
+[31Mar2025 21:36:53.012] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7ebc888f
+[31Mar2025 21:36:53.012] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.82, y=64.00, z=28.77] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.82, y=64.00, z=28.77]
+[31Mar2025 21:36:53.860] [Server thread/DEBUG] [pointblank/]: 13860 handling client fire request
+[31Mar2025 21:36:53.860] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 17
+[31Mar2025 21:36:53.860] [Server thread/DEBUG] [pointblank/]: 13860 - obtained hit result in 0ms
+[31Mar2025 21:36:53.860] [Server thread/DEBUG] [pointblank/]: 13860 obtained hit results
+[31Mar2025 21:36:53.860] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@76e8770f
+[31Mar2025 21:36:53.861] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.28] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.28]
+[31Mar2025 21:36:53.922] [Server thread/DEBUG] [pointblank/]: 13922 handling client fire request
+[31Mar2025 21:36:53.922] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 16
+[31Mar2025 21:36:53.922] [Server thread/DEBUG] [pointblank/]: 13922 - obtained hit result in 0ms
+[31Mar2025 21:36:53.922] [Server thread/DEBUG] [pointblank/]: 13922 obtained hit results
+[31Mar2025 21:36:53.922] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@76f9e7b4
+[31Mar2025 21:36:53.922] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.27] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.27]
+[31Mar2025 21:36:54.012] [Server thread/DEBUG] [pointblank/]: 14012 handling client fire request
+[31Mar2025 21:36:54.012] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 15
+[31Mar2025 21:36:54.012] [Server thread/DEBUG] [pointblank/]: 14012 - obtained hit result in 0ms
+[31Mar2025 21:36:54.012] [Server thread/DEBUG] [pointblank/]: 14012 obtained hit results
+[31Mar2025 21:36:54.012] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3ec614a5
+[31Mar2025 21:36:54.012] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.27] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.27]
+[31Mar2025 21:36:54.087] [Server thread/DEBUG] [pointblank/]: 14087 handling client fire request
+[31Mar2025 21:36:54.087] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 14
+[31Mar2025 21:36:54.087] [Server thread/DEBUG] [pointblank/]: 14087 - obtained hit result in 0ms
+[31Mar2025 21:36:54.087] [Server thread/DEBUG] [pointblank/]: 14087 obtained hit results
+[31Mar2025 21:36:54.087] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7bb908e
+[31Mar2025 21:36:54.088] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.27] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.27]
+[31Mar2025 21:36:54.168] [Server thread/DEBUG] [pointblank/]: 14168 handling client fire request
+[31Mar2025 21:36:54.168] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 13
+[31Mar2025 21:36:54.168] [Server thread/DEBUG] [pointblank/]: 14168 - obtained hit result in 0ms
+[31Mar2025 21:36:54.168] [Server thread/DEBUG] [pointblank/]: 14168 obtained hit results
+[31Mar2025 21:36:54.168] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@47c2d845
+[31Mar2025 21:36:54.168] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.27] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.27]
+[31Mar2025 21:36:54.263] [Server thread/DEBUG] [pointblank/]: 14263 handling client fire request
+[31Mar2025 21:36:54.263] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 12
+[31Mar2025 21:36:54.263] [Server thread/DEBUG] [pointblank/]: 14263 - obtained hit result in 0ms
+[31Mar2025 21:36:54.263] [Server thread/DEBUG] [pointblank/]: 14263 obtained hit results
+[31Mar2025 21:36:54.263] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3afe614
+[31Mar2025 21:36:54.264] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.27] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.97, y=64.00, z=27.27]
+[31Mar2025 21:36:54.329] [Server thread/DEBUG] [pointblank/]: 14329 handling client fire request
+[31Mar2025 21:36:54.329] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 11
+[31Mar2025 21:36:54.329] [Server thread/DEBUG] [pointblank/]: 14329 - obtained hit result in 0ms
+[31Mar2025 21:36:54.329] [Server thread/DEBUG] [pointblank/]: 14329 obtained hit results
+[31Mar2025 21:36:54.329] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@527e16d4
+[31Mar2025 21:36:54.330] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.74, y=64.00, z=27.18] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.74, y=64.00, z=27.18]
+[31Mar2025 21:36:54.410] [Server thread/DEBUG] [pointblank/]: 14410 handling client fire request
+[31Mar2025 21:36:54.410] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 10
+[31Mar2025 21:36:54.410] [Server thread/DEBUG] [pointblank/]: 14410 - obtained hit result in 0ms
+[31Mar2025 21:36:54.410] [Server thread/DEBUG] [pointblank/]: 14410 obtained hit results
+[31Mar2025 21:36:54.410] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@36dde01b
+[31Mar2025 21:36:54.412] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.59, y=64.00, z=26.90] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.59, y=64.00, z=26.90]
+[31Mar2025 21:36:54.518] [Server thread/DEBUG] [pointblank/]: 14518 handling client fire request
+[31Mar2025 21:36:54.518] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 9
+[31Mar2025 21:36:54.519] [Server thread/DEBUG] [pointblank/]: 14519 - obtained hit result in 0ms
+[31Mar2025 21:36:54.519] [Server thread/DEBUG] [pointblank/]: 14519 obtained hit results
+[31Mar2025 21:36:54.519] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7be6609b
+[31Mar2025 21:36:54.519] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.61, y=64.00, z=26.73] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.61, y=64.00, z=26.73]
+[31Mar2025 21:36:54.575] [Server thread/DEBUG] [pointblank/]: 14575 handling client fire request
+[31Mar2025 21:36:54.575] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 8
+[31Mar2025 21:36:54.576] [Server thread/DEBUG] [pointblank/]: 14576 - obtained hit result in 0ms
+[31Mar2025 21:36:54.576] [Server thread/DEBUG] [pointblank/]: 14576 obtained hit results
+[31Mar2025 21:36:54.576] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@22628ac4
+[31Mar2025 21:36:54.576] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.68, y=64.00, z=26.43] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.68, y=64.00, z=26.43]
+[31Mar2025 21:36:54.665] [Server thread/DEBUG] [pointblank/]: 14665 handling client fire request
+[31Mar2025 21:36:54.665] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 7
+[31Mar2025 21:36:54.665] [Server thread/DEBUG] [pointblank/]: 14665 - obtained hit result in 0ms
+[31Mar2025 21:36:54.665] [Server thread/DEBUG] [pointblank/]: 14665 obtained hit results
+[31Mar2025 21:36:54.665] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2d180831
+[31Mar2025 21:36:54.665] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.70, y=64.00, z=26.35] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.70, y=64.00, z=26.35]
+[31Mar2025 21:36:54.761] [Server thread/DEBUG] [pointblank/]: 14761 handling client fire request
+[31Mar2025 21:36:54.761] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 6
+[31Mar2025 21:36:54.762] [Server thread/DEBUG] [pointblank/]: 14762 - obtained hit result in 0ms
+[31Mar2025 21:36:54.762] [Server thread/DEBUG] [pointblank/]: 14762 obtained hit results
+[31Mar2025 21:36:54.762] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1fde406a
+[31Mar2025 21:36:54.762] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.70, y=64.00, z=26.32] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.70, y=64.00, z=26.32]
+[31Mar2025 21:36:54.861] [Server thread/DEBUG] [pointblank/]: 14861 handling client fire request
+[31Mar2025 21:36:54.862] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 5
+[31Mar2025 21:36:54.862] [Server thread/DEBUG] [pointblank/]: 14862 - obtained hit result in 0ms
+[31Mar2025 21:36:54.862] [Server thread/DEBUG] [pointblank/]: 14862 obtained hit results
+[31Mar2025 21:36:54.862] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@61a02b4
+[31Mar2025 21:36:54.862] [Server thread/DEBUG] [pointblank/]: ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.70, y=64.00, z=26.32] sends hit scan notification to ServerPlayer['issia_kzh'/66, l='ServerLevel[world]', x=1777.70, y=64.00, z=26.32]
+[31Mar2025 21:36:55.211] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 369076792 to 20
+[31Mar2025 21:36:57.313] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:5L,aim:0b,ammo:20,ammox:{},as:[],fmid:[I;-869994151,877606208,-1521417059,-1120999094],lid:-4965225659767028507L,mid:6009303978481175786L,sa:{scope:"/"},seed:-5007572491238140360L}
+[31Mar2025 21:37:58.791] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[31Mar2025 21:39:02.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: The difficulty has been set to Hard]
+[31Mar2025 21:39:28.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Set own game mode to Survival Mode]
+[31Mar2025 21:39:29.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 21:39:29.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 21:41:28.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of issia_kzh) moved wrongly! 0.3336701164053011
+[31Mar2025 21:41:28.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of issia_kzh) moved wrongly! 0.5022322620548039
+[31Mar2025 21:41:28.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of issia_kzh) moved wrongly! 0.5451332559598541
+[31Mar2025 21:41:28.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of issia_kzh) moved wrongly! 0.6210447154517169
+[31Mar2025 21:41:28.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of issia_kzh) moved wrongly! 0.7293181546879168
+[31Mar2025 21:41:37.116] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[31Mar2025 21:43:39.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Summoned new Mutant Zombie]
+[31Mar2025 21:44:08.437] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[31Mar2025 21:44:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: The difficulty has been set to Peaceful]
+[31Mar2025 21:44:29.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 21:44:29.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 21:44:33.514] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[31Mar2025 21:44:37.670] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[31Mar2025 21:45:03.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Teleported issia_kzh to JehuGamer]
+[31Mar2025 21:46:25.365] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[31Mar2025 21:46:37.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6ac34068-7a58-38de-81b7-12a2ed732a7d timed out
+[31Mar2025 21:46:37.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JehuGamer
+[31Mar2025 21:46:37.816] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to JehuGamer
+[31Mar2025 21:46:37.816] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with JehuGamer
+[31Mar2025 21:46:37.816] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with JehuGamer
+[31Mar2025 21:46:37.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JehuGamer
+[31Mar2025 21:46:37.817] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 6ac34068-7a58-38de-81b7-12a2ed732a7d to disconnected: {disabled=false, disconnected=true, uuid=6ac34068-7a58-38de-81b7-12a2ed732a7d, name=JehuGamer, group=bc968fb2-d7e8-4b2c-af5d-498a7043c852}
+[31Mar2025 21:46:45.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JehuGamer lost connection: Timed out
+[31Mar2025 21:46:45.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JehuGamer left the game
+[31Mar2025 21:46:45.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JehuGamer has died of cowardice
+[31Mar2025 21:46:45.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JehuGamer fell out of the world
+[31Mar2025 21:46:45.789] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JehuGamer
+[31Mar2025 21:46:45.789] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JehuGamer
+[31Mar2025 21:46:45.828] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Mar2025 21:46:45.854] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[31Mar2025 21:48:00.964] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[31Mar2025 21:48:04.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: issia_kzh lost connection: Disconnected
+[31Mar2025 21:48:04.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: issia_kzh left the game
+[31Mar2025 21:48:04.308] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of issia_kzh
+[31Mar2025 21:48:04.390] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client issia_kzh
+[31Mar2025 21:48:04.432] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player aa95126c-59c3-3651-bc71-b0d9fc63f8bc does not have a secret
+[31Mar2025 21:48:06.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Mar2025 21:48:06.161] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[31Mar2025 21:48:06.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Mar2025 21:48:06.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Mar2025 21:48:06.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Mar2025 21:48:06.310] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[31Mar2025 21:48:06.310] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[31Mar2025 21:48:06.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Mar2025 21:48:06.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[31Mar2025 21:48:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[31Mar2025 21:48:06.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Mar2025 21:48:06.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Mar2025 21:48:06.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 21:48:06.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 21:48:06.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Mar2025 21:48:06.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[31Mar2025 21:48:06.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[31Mar2025 21:48:06.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Mar2025 21:48:06.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Mar2025 21:48:06.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Mar2025 21:48:06.850] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[31Mar2025 21:48:06.851] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$b44d41$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[31Mar2025 21:48:06.851] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$b44d41$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[31Mar2025 21:48:06.874] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[31Mar2025 21:48:06.874] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[31Mar2025 21:48:06.979] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[31Mar2025 21:48:06.979] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[31Mar2025 21:48:07.007] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_deep_void:deep_void
+[31Mar2025 21:48:07.007] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_deep_void:deep_void
+[31Mar2025 21:48:07.009] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[31Mar2025 21:48:07.010] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[31Mar2025 21:48:07.010] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[31Mar2025 21:48:07.010] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[31Mar2025 21:48:07.022] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[31Mar2025 21:48:07.023] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown
+[31Mar2025 21:48:07.024] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[31Mar2025 21:48:07.025] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[31Mar2025 21:48:07.030] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31Mar2025 21:48:07.031] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/minecraft-msx/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2372!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2372!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23381!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23512!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23507!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23507!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31Mar2025 21:48:07.032] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[31Mar2025 21:48:07.035] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[31Mar2025 21:48:07.047] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

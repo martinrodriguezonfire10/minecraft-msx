@@ -2483,3 +2483,43 @@ java.lang.NullPointerException: null
 [31Mar2025 21:33:54.215] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
 [31Mar2025 21:33:54.215] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 1
 [31Mar2025 21:33:58.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Teleported issia_kzh to JehuGamer]
+[31Mar2025 21:39:02.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: The difficulty has been set to Hard]
+[31Mar2025 21:39:28.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Set own game mode to Survival Mode]
+[31Mar2025 21:41:28.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of issia_kzh) moved wrongly! 0.3336701164053011
+[31Mar2025 21:41:28.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of issia_kzh) moved wrongly! 0.5022322620548039
+[31Mar2025 21:41:28.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of issia_kzh) moved wrongly! 0.5451332559598541
+[31Mar2025 21:41:28.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of issia_kzh) moved wrongly! 0.6210447154517169
+[31Mar2025 21:41:28.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of issia_kzh) moved wrongly! 0.7293181546879168
+[31Mar2025 21:43:39.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Summoned new Mutant Zombie]
+[31Mar2025 21:44:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: The difficulty has been set to Peaceful]
+[31Mar2025 21:45:03.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [issia_kzh: Teleported issia_kzh to JehuGamer]
+[31Mar2025 21:46:37.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6ac34068-7a58-38de-81b7-12a2ed732a7d timed out
+[31Mar2025 21:46:37.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JehuGamer
+[31Mar2025 21:46:37.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JehuGamer
+[31Mar2025 21:46:45.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JehuGamer lost connection: Timed out
+[31Mar2025 21:46:45.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JehuGamer left the game
+[31Mar2025 21:46:45.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JehuGamer has died of cowardice
+[31Mar2025 21:46:45.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JehuGamer fell out of the world
+[31Mar2025 21:46:45.789] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JehuGamer
+[31Mar2025 21:46:45.828] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Mar2025 21:48:04.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: issia_kzh lost connection: Disconnected
+[31Mar2025 21:48:04.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: issia_kzh left the game
+[31Mar2025 21:48:04.390] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client issia_kzh
+[31Mar2025 21:48:06.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Mar2025 21:48:06.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Mar2025 21:48:06.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Mar2025 21:48:06.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Mar2025 21:48:06.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Mar2025 21:48:06.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[31Mar2025 21:48:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[31Mar2025 21:48:06.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Mar2025 21:48:06.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Mar2025 21:48:06.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Mar2025 21:48:06.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[31Mar2025 21:48:06.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[31Mar2025 21:48:06.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Mar2025 21:48:06.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Mar2025 21:48:06.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Mar2025 21:48:07.030] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31Mar2025 21:48:07.032] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[31Mar2025 21:48:07.035] [Server thread/INFO] [Framework/]: Finished unloading server configs

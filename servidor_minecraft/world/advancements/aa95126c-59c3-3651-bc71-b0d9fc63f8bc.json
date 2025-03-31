@@ -7148,6 +7148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-31 21:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-03-31 21:00:10 +0000"
@@ -7244,6 +7250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-31 21:37:14 +0000"
+    },
+    "done": true
+  },
   "projectvibrantjourneys:recipes/building_blocks/oak_planks_from_oak_hollow_log": {
     "criteria": {
       "has_oak_hollow_log": "2025-03-31 21:15:41 +0000"
@@ -7295,6 +7307,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-03-31 20:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-03-31 21:40:52 +0000"
     },
     "done": true
   },
