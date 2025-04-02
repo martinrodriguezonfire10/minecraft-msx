@@ -6130,7 +6130,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-24 00:04:02 +0000",
       "minecraft:spider": "2025-04-02 00:40:12 +0000",
-      "minecraft:zombie": "2025-03-23 23:58:46 +0000"
+      "minecraft:zombie": "2025-03-23 23:58:46 +0000",
+      "minecraft:drowned": "2025-04-02 00:55:47 +0000"
     },
     "done": false
   },
@@ -6608,9 +6609,21 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-02 00:47:46 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2025-04-02 00:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-04-02 00:47:29 +0000"
     },
     "done": true
   },
