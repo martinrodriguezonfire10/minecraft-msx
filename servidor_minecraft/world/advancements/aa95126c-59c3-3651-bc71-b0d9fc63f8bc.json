@@ -4333,6 +4333,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-04-02 00:40:09 +0000",
       "bread": "2025-03-22 02:47:11 +0000"
     },
     "done": false
@@ -7337,6 +7338,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_trapdoor": "2025-04-02 00:44:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_glass": "2025-04-02 00:01:45 +0000"
@@ -7502,6 +7509,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-02 00:33:32 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-04-02 00:42:31 +0000"
     },
     "done": true
   },
