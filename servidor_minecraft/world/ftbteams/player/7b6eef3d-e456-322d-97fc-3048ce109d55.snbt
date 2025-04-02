@@ -1,0 +1,17 @@
+{
+	id: "7b6eef3d-e456-322d-97fc-3048ce109d55"
+	type: "player"
+	player_name: "Gvetee"
+	ranks: {
+		7b6eef3d-e456-322d-97fc-3048ce109d55: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Gvetee"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF595E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
