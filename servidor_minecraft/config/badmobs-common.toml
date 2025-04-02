@@ -5180,7 +5180,7 @@
 	#Spawning options for apocalypsenow:runner_57
 	[apocalypsenow.runner_57]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5356,7 +5356,7 @@
 	#Spawning options for apocalypsenow:hunter
 	[apocalypsenow.hunter]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5367,7 +5367,7 @@
 	#Spawning options for apocalypsenow:walker_1
 	[apocalypsenow.walker_1]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5378,7 +5378,7 @@
 	#Spawning options for apocalypsenow:walker_2
 	[apocalypsenow.walker_2]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5389,7 +5389,7 @@
 	#Spawning options for apocalypsenow:walker_3
 	[apocalypsenow.walker_3]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5400,7 +5400,7 @@
 	#Spawning options for apocalypsenow:walker_4
 	[apocalypsenow.walker_4]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5411,7 +5411,7 @@
 	#Spawning options for apocalypsenow:walker_5
 	[apocalypsenow.walker_5]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5422,7 +5422,7 @@
 	#Spawning options for apocalypsenow:walker_6
 	[apocalypsenow.walker_6]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5433,7 +5433,7 @@
 	#Spawning options for apocalypsenow:walker_7
 	[apocalypsenow.walker_7]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5444,7 +5444,7 @@
 	#Spawning options for apocalypsenow:walker_8
 	[apocalypsenow.walker_8]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5455,7 +5455,7 @@
 	#Spawning options for apocalypsenow:walker_9
 	[apocalypsenow.walker_9]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5466,7 +5466,7 @@
 	#Spawning options for apocalypsenow:walker_10
 	[apocalypsenow.walker_10]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5477,7 +5477,7 @@
 	#Spawning options for apocalypsenow:walker_11
 	[apocalypsenow.walker_11]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5488,7 +5488,7 @@
 	#Spawning options for apocalypsenow:walker_12
 	[apocalypsenow.walker_12]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5499,7 +5499,7 @@
 	#Spawning options for apocalypsenow:walker_13
 	[apocalypsenow.walker_13]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5510,7 +5510,7 @@
 	#Spawning options for apocalypsenow:walker_14
 	[apocalypsenow.walker_14]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5521,7 +5521,7 @@
 	#Spawning options for apocalypsenow:walker_15
 	[apocalypsenow.walker_15]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5532,7 +5532,7 @@
 	#Spawning options for apocalypsenow:walker_16
 	[apocalypsenow.walker_16]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5543,7 +5543,7 @@
 	#Spawning options for apocalypsenow:walker_17
 	[apocalypsenow.walker_17]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5554,7 +5554,7 @@
 	#Spawning options for apocalypsenow:walker_18
 	[apocalypsenow.walker_18]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5565,7 +5565,7 @@
 	#Spawning options for apocalypsenow:walker_19
 	[apocalypsenow.walker_19]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5576,7 +5576,7 @@
 	#Spawning options for apocalypsenow:walker_20
 	[apocalypsenow.walker_20]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5587,7 +5587,7 @@
 	#Spawning options for apocalypsenow:walker_21
 	[apocalypsenow.walker_21]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5598,7 +5598,7 @@
 	#Spawning options for apocalypsenow:walker_22
 	[apocalypsenow.walker_22]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5609,7 +5609,7 @@
 	#Spawning options for apocalypsenow:walker_23
 	[apocalypsenow.walker_23]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5620,7 +5620,7 @@
 	#Spawning options for apocalypsenow:walker_24
 	[apocalypsenow.walker_24]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5631,7 +5631,7 @@
 	#Spawning options for apocalypsenow:walker_25
 	[apocalypsenow.walker_25]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5642,7 +5642,7 @@
 	#Spawning options for apocalypsenow:walker_26
 	[apocalypsenow.walker_26]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5653,7 +5653,7 @@
 	#Spawning options for apocalypsenow:walker_27
 	[apocalypsenow.walker_27]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5664,7 +5664,7 @@
 	#Spawning options for apocalypsenow:walker_28
 	[apocalypsenow.walker_28]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5675,7 +5675,7 @@
 	#Spawning options for apocalypsenow:walker_29
 	[apocalypsenow.walker_29]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5686,7 +5686,7 @@
 	#Spawning options for apocalypsenow:walker_30
 	[apocalypsenow.walker_30]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5697,7 +5697,7 @@
 	#Spawning options for apocalypsenow:walker_31
 	[apocalypsenow.walker_31]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5708,7 +5708,7 @@
 	#Spawning options for apocalypsenow:walker_32
 	[apocalypsenow.walker_32]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5719,7 +5719,7 @@
 	#Spawning options for apocalypsenow:walker_33
 	[apocalypsenow.walker_33]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5730,7 +5730,7 @@
 	#Spawning options for apocalypsenow:runner_34
 	[apocalypsenow.runner_34]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5741,7 +5741,7 @@
 	#Spawning options for apocalypsenow:runner_35
 	[apocalypsenow.runner_35]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5752,7 +5752,7 @@
 	#Spawning options for apocalypsenow:runner_36
 	[apocalypsenow.runner_36]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5763,7 +5763,7 @@
 	#Spawning options for apocalypsenow:runner_37
 	[apocalypsenow.runner_37]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5774,7 +5774,7 @@
 	#Spawning options for apocalypsenow:runner_38
 	[apocalypsenow.runner_38]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5785,7 +5785,7 @@
 	#Spawning options for apocalypsenow:runner_39
 	[apocalypsenow.runner_39]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5796,7 +5796,7 @@
 	#Spawning options for apocalypsenow:runner_40
 	[apocalypsenow.runner_40]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5807,7 +5807,7 @@
 	#Spawning options for apocalypsenow:runner_41
 	[apocalypsenow.runner_41]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5818,7 +5818,7 @@
 	#Spawning options for apocalypsenow:runner_42
 	[apocalypsenow.runner_42]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5829,7 +5829,7 @@
 	#Spawning options for apocalypsenow:runner_43
 	[apocalypsenow.runner_43]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5840,7 +5840,7 @@
 	#Spawning options for apocalypsenow:runner_44
 	[apocalypsenow.runner_44]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5851,7 +5851,7 @@
 	#Spawning options for apocalypsenow:runner_45
 	[apocalypsenow.runner_45]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5862,7 +5862,7 @@
 	#Spawning options for apocalypsenow:runner_46
 	[apocalypsenow.runner_46]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5873,7 +5873,7 @@
 	#Spawning options for apocalypsenow:runner_47
 	[apocalypsenow.runner_47]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5884,7 +5884,7 @@
 	#Spawning options for apocalypsenow:runner_48
 	[apocalypsenow.runner_48]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5895,7 +5895,7 @@
 	#Spawning options for apocalypsenow:runner_49
 	[apocalypsenow.runner_49]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5906,7 +5906,7 @@
 	#Spawning options for apocalypsenow:runner_50
 	[apocalypsenow.runner_50]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5917,7 +5917,7 @@
 	#Spawning options for apocalypsenow:runner_51
 	[apocalypsenow.runner_51]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5928,7 +5928,7 @@
 	#Spawning options for apocalypsenow:runner_52
 	[apocalypsenow.runner_52]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5939,7 +5939,7 @@
 	#Spawning options for apocalypsenow:runner_53
 	[apocalypsenow.runner_53]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5950,7 +5950,7 @@
 	#Spawning options for apocalypsenow:runner_54
 	[apocalypsenow.runner_54]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5961,7 +5961,7 @@
 	#Spawning options for apocalypsenow:runner_55
 	[apocalypsenow.runner_55]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5972,7 +5972,7 @@
 	#Spawning options for apocalypsenow:crawler_1
 	[apocalypsenow.crawler_1]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5983,7 +5983,7 @@
 	#Spawning options for apocalypsenow:crawler_2
 	[apocalypsenow.crawler_2]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -5994,7 +5994,7 @@
 	#Spawning options for apocalypsenow:crawler_3
 	[apocalypsenow.crawler_3]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6005,7 +6005,7 @@
 	#Spawning options for apocalypsenow:crawler_4
 	[apocalypsenow.crawler_4]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6016,7 +6016,7 @@
 	#Spawning options for apocalypsenow:looter_1
 	[apocalypsenow.looter_1]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6027,7 +6027,7 @@
 	#Spawning options for apocalypsenow:looter_2
 	[apocalypsenow.looter_2]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6038,7 +6038,7 @@
 	#Spawning options for apocalypsenow:looter_3
 	[apocalypsenow.looter_3]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6049,7 +6049,7 @@
 	#Spawning options for apocalypsenow:looter_4
 	[apocalypsenow.looter_4]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6060,7 +6060,7 @@
 	#Spawning options for apocalypsenow:looter_5
 	[apocalypsenow.looter_5]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6071,7 +6071,7 @@
 	#Spawning options for apocalypsenow:runner_56
 	[apocalypsenow.runner_56]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6082,7 +6082,7 @@
 	#Spawning options for apocalypsenow:horde_1
 	[apocalypsenow.horde_1]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6093,7 +6093,7 @@
 	#Spawning options for apocalypsenow:horde_2
 	[apocalypsenow.horde_2]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6104,7 +6104,7 @@
 	#Spawning options for apocalypsenow:horde_3
 	[apocalypsenow.horde_3]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6115,7 +6115,7 @@
 	#Spawning options for apocalypsenow:horde_4
 	[apocalypsenow.horde_4]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6126,7 +6126,7 @@
 	#Spawning options for apocalypsenow:horde_5
 	[apocalypsenow.horde_5]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -6137,7 +6137,7 @@
 	#Spawning options for apocalypsenow:cannibal
 	[apocalypsenow.cannibal]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
