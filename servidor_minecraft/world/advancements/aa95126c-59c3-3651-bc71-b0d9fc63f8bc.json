@@ -3638,12 +3638,6 @@
     },
     "done": true
   },
-  "apocalypsenow:thesurvivor": {
-    "criteria": {
-      "thesurvivor_0": "2025-03-22 02:11:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-03-22 02:12:27 +0000"
@@ -7285,12 +7279,6 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-31 21:26:47 +0000"
-    },
-    "done": true
-  },
-  "apocalypsenow:firstworld_doctor": {
-    "criteria": {
-      "firstworld_doctor_0": "2025-03-31 21:29:07 +0000"
     },
     "done": true
   },
