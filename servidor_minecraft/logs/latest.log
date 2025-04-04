@@ -2807,3 +2807,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 02:11:30.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JehuGamer lost connection: Disconnected
 [04Apr2025 02:11:30.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JehuGamer left the game
 [04Apr2025 02:11:30.150] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JehuGamer
+[04Apr2025 02:15:44.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Apr2025 02:15:44.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Apr2025 02:15:44.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Apr2025 02:15:44.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Apr2025 02:15:44.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Apr2025 02:15:44.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Apr2025 02:15:44.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[04Apr2025 02:15:44.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Apr2025 02:15:44.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[04Apr2025 02:15:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Apr2025 02:15:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Apr2025 02:15:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[04Apr2025 02:15:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Apr2025 02:15:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[04Apr2025 02:15:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Apr2025 02:15:45.035] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Apr2025 02:15:45.037] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[04Apr2025 02:15:45.041] [Server thread/INFO] [Framework/]: Finished unloading server configs
