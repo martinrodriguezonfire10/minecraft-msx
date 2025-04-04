@@ -6628,9 +6628,21 @@
     },
     "done": true
   },
+  "man:kill": {
+    "criteria": {
+      "kill_0": "2025-04-04 01:36:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2025-04-04 00:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -6640,15 +6652,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/stone_fence": {
     "criteria": {
       "has_block": "2025-04-04 01:02:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-04-04 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -6664,9 +6694,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
       "has_log": "2025-04-04 00:49:00 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_ladder": {
+    "criteria": {
+      "has_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_layer": {
+    "criteria": {
+      "has_block": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -6679,6 +6745,12 @@
   "bbb:recipes/spruce_pallet": {
     "criteria": {
       "has_planks": "2025-04-04 00:49:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -6706,6 +6778,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-04 00:43:48 +0000"
@@ -6730,9 +6808,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-04-04 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -6748,9 +6838,21 @@
     },
     "done": true
   },
+  "bbb:recipes/birch_support": {
+    "criteria": {
+      "has_block": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/spruce_frame": {
     "criteria": {
       "has_planks": "2025-04-04 00:49:00 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_support": {
+    "criteria": {
+      "has_plank": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -6772,9 +6874,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-04-04 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_trim": {
+    "criteria": {
+      "has_block": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -6793,6 +6907,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-04 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-04 02:02:27 +0000"
     },
     "done": true
   },
@@ -6832,6 +6952,30 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-04 01:47:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-04 01:47:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-04 01:02:21 +0000"
@@ -6844,6 +6988,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-04 00:44:52 +0000"
@@ -6853,6 +7003,24 @@
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-04 00:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-04 01:40:02 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -6880,6 +7048,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/polished_stone": {
     "criteria": {
       "has_block": "2025-04-04 01:03:02 +0000"
@@ -6904,6 +7084,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-04 01:37:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-04 01:02:21 +0000"
@@ -6916,9 +7108,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-04-04 00:46:23 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-04 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -6946,6 +7162,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_slab": {
+    "criteria": {
+      "has_planks": "2025-04-04 02:02:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-04 00:44:52 +0000"
@@ -6970,9 +7198,33 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-04 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-04 00:44:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-04 01:40:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -6994,6 +7246,18 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-04 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_door": {
+    "criteria": {
+      "has_planks": "2025-04-04 02:02:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-04-04 01:02:21 +0000"
@@ -7012,6 +7276,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-04-04 01:47:29 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-04-04 01:02:21 +0000"
@@ -7021,6 +7297,12 @@
   "bbb:recipes/dark_oak_beam": {
     "criteria": {
       "has_log": "2025-04-04 00:50:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -7039,6 +7321,12 @@
   "bbb:recipes/dark_oak_wall": {
     "criteria": {
       "has_logs": "2025-04-04 00:50:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -7078,6 +7366,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-04-04 01:02:21 +0000"
@@ -7087,6 +7381,18 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-04 01:03:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_sign": {
+    "criteria": {
+      "has_planks": "2025-04-04 02:02:27 +0000"
     },
     "done": true
   },
@@ -7102,6 +7408,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-04 00:44:52 +0000"
@@ -7111,6 +7423,18 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-04-04 00:49:00 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_fence": {
+    "criteria": {
+      "has_planks": "2025-04-04 02:02:27 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_button": {
+    "criteria": {
+      "has_planks": "2025-04-04 02:02:27 +0000"
     },
     "done": true
   },
@@ -7138,6 +7462,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-04 01:02:21 +0000"
@@ -7147,6 +7477,12 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_stone_pillar_trim": "2025-04-04 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-04-04 01:10:01 +0000"
     },
     "done": true
   },
@@ -7162,9 +7498,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-04 01:10:01 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/stone_column": {
     "criteria": {
       "has_block": "2025-04-04 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-04 01:37:18 +0000"
     },
     "done": true
   },
